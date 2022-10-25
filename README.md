@@ -1,7 +1,5 @@
 # Nova Spot Micro Backup
- 
-##
-### STL Files
+## STL Files
    STL files have markings on them to aid in orientation when assembling Nova. Please use the following legend if you have trouble with any parts.
 
    **Frame** 
